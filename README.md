@@ -15,11 +15,11 @@ The Random Forest algorithm was chosen due to its robustness and efficiency in h
 
 The project involved creating a dataset of over 1,200 instances, each meticulously curated to ensure high-quality and relevant genetic information. Key features included: 
 
-Allele Change: Critical in understanding genetic variations. 
-Allele Frequency: Provides insights into the commonality of the variants. 
-Conservation Score: Indicates the evolutionary preservation of genetic sequences, shedding light on their importance. 
-Gene Affected: Essential for linking variants to specific diseases. 
-Functional Impact: Helps determine the actual effect of the variant on the gene function. 
+1. Allele Change: Critical in understanding genetic variations.
+2. Allele Frequency: Provides insights into the commonality of the variants. 
+3. Conservation Score: Indicates the evolutionary preservation of genetic sequences, shedding light on their importance. 
+4. Gene Affected: Essential for linking variants to specific diseases. 
+5. Functional Impact: Helps determine the actual effect of the variant on the gene function. 
 
 **Performance Metrics**
 
