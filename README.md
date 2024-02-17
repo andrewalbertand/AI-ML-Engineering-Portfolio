@@ -20,6 +20,7 @@ Allele Frequency: Provides insights into the commonality of the variants.
 Conservation Score: Indicates the evolutionary preservation of genetic sequences, shedding light on their importance. 
 Gene Affected: Essential for linking variants to specific diseases. 
 Functional Impact: Helps determine the actual effect of the variant on the gene function. 
+
 Performance Metrics: 
 
 The classifier achieved an accuracy and F1 score of 80%, demonstrating its impressive effectiveness in genomic variant classification. These metrics were chosen as they provide a balanced view of the model’s performance, accounting for both precision and recall. This level of accuracy is particularly significant and difficult to accomplish in the context of genomic research, where the correct identification of disease-associated variants is highly complex and multifaceted. 
