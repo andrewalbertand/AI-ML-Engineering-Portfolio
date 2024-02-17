@@ -27,10 +27,6 @@ Visualizations:
 
 To illustrate the model’s decision-making process and performance, several visual aids are used: 
 
-Feature Importances Plot: Highlights the weight of each feature in the model’s predictions. 
-ROC Curve: Demonstrates the true positive rate against the false positive rate at various threshold settings. 
-Confusion Matrix: Provides a clear picture of the model’s prediction accuracy and instances of misclassification. 
-
 Application in R&D: 
 
 This proprietary technology is currently being utilized in-house at SensusGen AI for advanced genomic research. Its application is crucial in exploring new correlations between genetic markers and neurodegenerative diseases, paving the way for potential therapeutic breakthroughs. 
@@ -44,7 +40,12 @@ Future Directions:
 
 Going forward, the methodologies and learnings from this project can be applied to other complex genomic analysis tasks. There is potential to expand the model’s application to include other diseases and to integrate it with other forms of biomedical data for more comprehensive insights.  ![download (1)](https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/451c4b91-d09b-4117-9288-ded591ad3714)
 <img width="1321" alt="das" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/fcef81b5-cae0-43cd-8991-779421214fdf">
+Feature Importances Plot: Highlights the weight of each feature in the model’s predictions. 
+ROC Curve: Demonstrates the true positive rate against the false positive rate at various threshold settings. 
+Confusion Matrix: Provides a clear picture of the model’s prediction accuracy and instances of misclassification. 
 <img width="319" alt="ATL" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/5cc200d6-28f1-451a-8a12-3dd9a90acefe">
+
 <img width="582" alt="confusionmatrix" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/d3126f69-594f-48b1-b2d9-761b47dac473">
+
 <img width="566" alt="class" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/58a0d87f-5d3b-4d32-95fc-74a8c8b171d3">
 
