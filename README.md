@@ -25,14 +25,9 @@ Performance Metrics:
 
 The classifier achieved an accuracy and F1 score of 80%, demonstrating its impressive effectiveness in genomic variant classification. These metrics were chosen as they provide a balanced view of the model’s performance, accounting for both precision and recall. This level of accuracy is particularly significant and difficult to accomplish in the context of genomic research, where the correct identification of disease-associated variants is highly complex and multifaceted. 
 
-Visualizations: 
-
-To illustrate the model’s decision-making process and performance, several visual aids are used: 
-
 Application in R&D: 
 
 This proprietary technology is currently being utilized in-house at SensusGen AI for advanced genomic research. Its application is crucial in exploring new correlations between genetic markers and neurodegenerative diseases, paving the way for potential therapeutic breakthroughs. 
-
 
 Significance and Impact: 
 
