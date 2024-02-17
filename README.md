@@ -48,8 +48,7 @@ The classifier achieved an accuracy and F1 score of 80%, demonstrating its effec
 
 <img width="582" alt="confusionmatrix" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/d3126f69-594f-48b1-b2d9-761b47dac473">
 
-k-fold cross validation was used to evaluate the model's performance. 
-The classifier achieves ~80% scores across several key metrics: accuracy, F1-score, precision, and recall. 
+The confusion matrix illustrates the performance of the classifier. Each cell in the grid corresponds to the number of predictions made by the model, where the rows represent the actual diseases and the columns represent the predicted diseases. For example, the model correctly predicted 160 instances of PD (Parkinson’s disease), while it confused MS (Multiple Sclerosis) with AD (Alzheimer’s disease) in 27 cases. The darker the shade of blue, the higher the number of predictions, indicating a strong predictive accuracy in those areas. 
 
 <img width="566" alt="class" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/58a0d87f-5d3b-4d32-95fc-74a8c8b171d3">
 
