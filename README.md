@@ -27,7 +27,7 @@ The classifier achieved an accuracy and F1 score of 80%, demonstrating its impre
 
 Application in R&D: 
 
-This proprietary technology is currently being utilized in-house at SensusGen AI for advanced genomic research. Its application is crucial in exploring new correlations between genetic markers and neurodegenerative diseases, paving the way for potential therapeutic breakthroughs. 
+This proprietary technology is currently being utilized by scientists investigating neurodegenerative diseases for advanced genomic research. Its application streamlines the exploration of correlations between genetic markers and neurodegenerative diseases, paving the way for potential therapeutic breakthroughs. 
 
 Significance and Impact: 
 
