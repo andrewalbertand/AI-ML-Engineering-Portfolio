@@ -52,3 +52,5 @@ The confusion matrix illustrates the performance of the classifier. Each cell in
 
 <img width="566" alt="class" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/58a0d87f-5d3b-4d32-95fc-74a8c8b171d3">
 
+This bar chart illustrates the precision, recall, and F1 score for each class — AD, MS, and PD — showcasing the model’s well-rounded performance across different neurodegenerative diseases. PD shows particularly high precision, indicating a strong likelihood of correct predictions when a PD variant entry is submitted. It should be emphasized that the scores for AD and MS are also robust, reflecting the model’s competence in these more challenging classifications. The scores displayed highlight the model’s substantial utility for research in the complex field of genomic variant classification. Significantly surpassing the baseline of 0%, which is a common starting point in this cutting-edge field of genomic variant classification, the model’s achievements are a testament to its value and effectiveness.
+
