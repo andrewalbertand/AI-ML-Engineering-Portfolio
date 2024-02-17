@@ -44,6 +44,8 @@ This bar chart displays the relative importance of each feature used in predicti
 
 <img width="319" alt="ATL" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/5cc200d6-28f1-451a-8a12-3dd9a90acefe">
 
+The classifier achieved an accuracy and F1 score of 80%, demonstrating its effectiveness in genomic variant classification. These metrics were chosen as they provide a balanced view of the model’s performance, accounting for both precision and recall. This level of accuracy is particularly significant in the context of genomic research, where the correct identification of disease-associated variants is crucial. 
+
 <img width="582" alt="confusionmatrix" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/d3126f69-594f-48b1-b2d9-761b47dac473">
 
 k-fold cross validation was used to evaluate the model's performance. 
