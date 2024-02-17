@@ -1,5 +1,5 @@
 # AI-ML-Engineering-Portfolio
-This repository showcases some of my work and projects in the fields of Artificial Intelligence and Machine Learning.
+This repository showcases some of my work and projects in the fields of Artificial Intelligence and Machine Learning. A successfully executed project achieving commercially viable metrics is thoroughly detailed below. 
 
 **Project Concept: Genomic Variant Classifier for Neurodegenerative Diseases (PD, AD, MS)**
 
