@@ -1,9 +1,9 @@
 # AI-ML-Engineering-Portfolio
 This repository showcases some of my work and projects in the fields of Artificial Intelligence and Machine Learning.
 
-**Project 1: Genomic Variant Classifier for Neurodegenerative Diseases (PD, AD, MS)**
+**Project Concept: Genomic Variant Classifier for Neurodegenerative Diseases (PD, AD, MS)**
 
-Project Overview
+Overview
 
 The goal of this project was to develop a sophisticated AI-driven tool capable of classifying genetic variants as indicative of Parkinson’s Disease (PD), Alzheimer’s Disease (AD), or Multiple Sclerosis (MS). The emphasis was on leveraging advanced machine learning techniques to interpret complex genomic data, thereby aiding in the early detection and understanding of these neurodegenerative diseases. 
 
@@ -22,7 +22,7 @@ Gene Affected: Essential for linking variants to specific diseases.
 Functional Impact: Helps determine the actual effect of the variant on the gene function. 
 Performance Metrics: 
 
-The classifier achieved an accuracy and F1 score of 80%, demonstrating its effectiveness in genomic variant classification. These metrics were chosen as they provide a balanced view of the model’s performance, accounting for both precision and recall. This level of accuracy is particularly significant in the context of genomic research, where the correct identification of disease-associated variants is crucial. 
+The classifier achieved an accuracy and F1 score of 80%, demonstrating its impressive effectiveness in genomic variant classification. These metrics were chosen as they provide a balanced view of the model’s performance, accounting for both precision and recall. This level of accuracy is particularly significant and difficult to accomplish in the context of genomic research, where the correct identification of disease-associated variants is highly complex and multifaceted. 
 
 Visualizations: 
 
