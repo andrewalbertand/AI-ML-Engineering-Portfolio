@@ -1,6 +1,7 @@
 # AI-ML-Engineering-Portfolio
 This repository showcases some of my work and projects in the fields of Artificial Intelligence and Machine Learning.
-Algorithm Developed: Genomic Variant Classifier for Neurodegenerative Diseases (PD, AD, MS) 
+
+Project 1: Genomic Variant Classifier for Neurodegenerative Diseases (PD, AD, MS) 
 
 Project Overview
 
