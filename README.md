@@ -39,9 +39,11 @@ This classifier’s ability to accurately predict disease associations based on 
 Future Directions: 
 
 Going forward, the methodologies and learnings from this project can be applied to other complex genomic analysis tasks. There is potential to expand the model’s application to include other diseases and to integrate it with other forms of biomedical data for more comprehensive insights.  ![download (1)](https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/451c4b91-d09b-4117-9288-ded591ad3714)
-<img width="1321" alt="das" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/fcef81b5-cae0-43cd-8991-779421214fdf">
 
 This bar chart displays the relative importance of each feature used in predicting the neurodegenerative diseases—Alzheimer’s disease (AD), Multiple Sclerosis (MS), and Parkinson’s disease (PD). The length of the bar represents the significance of the feature, with ‘Conservation Score (GERP)’ being the most influential, followed by ‘Allele Frequency (GNOMAD)’, ‘Gene Affected (NCBI)’, ‘Functional Impact (NCBI)’, and ‘Allele Change (NCBI)’. This means that even if you have to enter “unknown” a given category, the model can still use the other information provided to make its best prediction for disease association.
+
+<img width="1321" alt="das" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/fcef81b5-cae0-43cd-8991-779421214fdf">
+
 <img width="319" alt="ATL" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/5cc200d6-28f1-451a-8a12-3dd9a90acefe">
 
 <img width="582" alt="confusionmatrix" src="https://github.com/andrewalbertand/AI-ML-Engineering-Portfolio/assets/71141011/d3126f69-594f-48b1-b2d9-761b47dac473">
